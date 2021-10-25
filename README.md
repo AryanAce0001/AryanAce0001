@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AryanAce0001
-- 👀 I’m interested in everything.
+- Python, C++, HTML, CSS, Unity, Wordpress.
+- 👀 I’m interested in everything related to python.
 - 🌱 I’m currently learning game dev.
 - 💞️ I’m looking to collaborate on Game Development, Web Development using python django/flask and erlag.
 - 📫 How to reach me csanyam.rajesh@gmail.com
